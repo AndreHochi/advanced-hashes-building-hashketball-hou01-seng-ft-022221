@@ -107,6 +107,17 @@ def game_hash
         :Steals => 0,
         :Blocks => 0,
         :Slam_Dunks => 0,
+      },
+      {
+        :Player_name => "",
+        :Number => 0,
+        :Shoe => 0,
+        :Points => 0,
+        :rebounds => 0,
+        :Assists => 0,
+        :Steals => 0,
+        :Blocks => 0,
+        :Slam_Dunks => 0,
       }]
     }
   }
