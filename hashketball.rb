@@ -59,7 +59,7 @@ def game_hash
         :Steals => 4,
         :Blocks => 11,
         :Slam_Dunks => 1,
-      },]
+      }]
     }
     :away => {
       :team_name => "Charlotte Hornets"
@@ -110,14 +110,14 @@ def game_hash
       },
       {
         :Player_name => "Kemba Walker",
-        :Number => 0,
-        :Shoe => 0,
-        :Points => 0,
-        :rebounds => 0,
-        :Assists => 0,
-        :Steals => 0,
-        :Blocks => 0,
-        :Slam_Dunks => 0,
+        :Number => 33,
+        :Shoe => 15,
+        :Points => 6,
+        :rebounds => 12,
+        :Assists => 12,
+        :Steals => 7,
+        :Blocks => 5,
+        :Slam_Dunks => 12,
       }]
     }
   }
