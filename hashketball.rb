@@ -28,6 +28,17 @@ def game_hash
         :Slam_Dunks => 7,
       },
       {
+        :Player_name => "Brook Lopez",
+        :Number => 11,
+        :Shoe => 17,
+        :Points => 17,
+        :rebounds => 19,
+        :Assists => 10,
+        :Steals => 3,
+        :Blocks => 1,
+        :Slam_Dunks => 15,
+      },
+      {
         :Player_name => "",
         :Number => 0,
         :Shoe => 0,
