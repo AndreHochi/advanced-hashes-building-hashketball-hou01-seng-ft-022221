@@ -60,7 +60,7 @@ def game_hash
         :Blocks => 11,
         :Slam_Dunks => 1,
       }]
-    }
+    },
     :away => {
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
