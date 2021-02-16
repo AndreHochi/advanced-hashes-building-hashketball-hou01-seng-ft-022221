@@ -48,7 +48,7 @@ def game_hash
         :Steals => 0,
         :Blocks => 0,
         :Slam_Dunks => 0,
-      }]
+      },]
     }
     :away => {
       :team_name => "Charlotte Hornets"
