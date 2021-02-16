@@ -76,7 +76,7 @@ def game_hash
         :Slam_Dunks => 2,
       },
       {
-        :Player_name => "",
+        :Player_name => "Bismack Biyombo",
         :Number => 0,
         :Shoe => 0,
         :Points => 0,
