@@ -17,7 +17,7 @@ def game_hash
         :Slam_Dunks => 1,
       },
       {
-        :Player_name => "",
+        :Player_name => "Reggie Evans",
         :Number => 0,
         :Shoe => 0,
         :Points => 0,
