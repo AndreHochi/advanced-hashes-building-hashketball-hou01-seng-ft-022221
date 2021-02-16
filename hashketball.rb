@@ -39,7 +39,7 @@ def game_hash
         :Slam_Dunks => 15,
       },
       {
-        :Player_name => "",
+        :Player_name => "Mason Plumlee",
         :Number => 0,
         :Shoe => 0,
         :Points => 0,
